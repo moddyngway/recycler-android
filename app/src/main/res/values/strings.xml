@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="names">
+        <item>Rick Tunde Gomułka</item>
+        <item>Darijo Eerika Droit</item>
+        <item>Ariel Adami</item>
+        <item>John Gibb</item>
+        <item>Leonid Aylmer</item>
+        <item>Jorah Velázquez</item>
+        <item>Tasunka Goldhirsch</item>
+        <item>Zaccharias Baines</item>
+        <item>Jasmin Sharma</item>
+        <item>Diksha Jonker</item>
+        <item>Royce Ferri</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>Surgeon</item>
+        <item>Veterinarian</item>
+        <item>Pediatrician</item>
+        <item>Optometrist</item>
+        <item>Medical surgery nurse</item>
+        <item>Chiropractor</item>
+        <item>Psychiatrist</item>
+        <item>Podiatrist</item>
+        <item>Physician</item>
+        <item>Oncologist</item>
+        <item>Dentist</item>
+    </string-array>
+</resources>
